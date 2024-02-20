@@ -1,0 +1,4 @@
+.vscode/settings.json
+backend/__pycache__/config.cpython-312.pyc
+backend/__pycache__/models.cpython-312.pyc
+backend/instance/mydatabase.db
